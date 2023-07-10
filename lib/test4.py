@@ -1,3 +1,5 @@
+from .bitbang import Bitbang
+
 class Test4(Bitbang):
     def __init__(self):
         print('test4 __init__')
