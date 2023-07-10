@@ -1,0 +1,8 @@
+{
+  "urls": [
+    ["test4/examples/basic.py", "github:mcauser/micropython-mip-test4/examples/test4_basic.py"],
+    ["test4/examples/complex.py", "github:mcauser/micropython-mip-test4/examples/test4_complex.py"]
+  ],
+  "deps": [],
+  "version": "0.1"
+}

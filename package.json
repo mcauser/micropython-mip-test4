@@ -1,0 +1,9 @@
+{
+  "urls": [
+    ["test4/__init__.py", "github:mcauser/micropython-mip-test4/test4/__init__.py"],
+    ["test4/test4.py", "github:mcauser/micropython-mip-test4/test4/test4.py"],
+    ["test4/bitbang.py", "github:mcauser/micropython-mip-test4/test4/bitbang.py"]
+  ],
+  "deps": [],
+  "version": "0.1"
+}
